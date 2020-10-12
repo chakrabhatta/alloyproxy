@@ -2,8 +2,8 @@
 
 A node.js proxy that features URL encoding, and amazing compatablity!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/alloyproxy/)
-[![Run on Repl.it](https://repl.it/badge/github/titaniumnetwork-dev/alloyproxy)](https://repl.it/github/titaniumnetwork-dev/alloyproxy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rockpods/alloyproxy/)
+[![Run on Repl.it](https://repl.it/badge/github/titaniumnetwork-dev/alloyproxy)](https://repl.it/github/Rockpods/alloyproxy)
 
 # How to install and use:
 
