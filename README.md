@@ -7,7 +7,7 @@ A node.js proxy that features URL encoding, and amazing compatablity!
 
 # How to install and use:
 
-`git clone https://github.com/rockpods-dev/alloyproxy.git`
+`git clone https://github.com/rockpods/alloyproxy.git`
 
 `cd alloyproxy`
 
