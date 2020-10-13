@@ -7,7 +7,7 @@ A node.js proxy that features URL encoding, and amazing compatablity!
 
 # How to install and use:
 
-`git clone https://github.com/rockpods/alloyproxy.git`
+`git clone https://github.com/Rockpods/alloyproxy.git`
 
 `cd alloyproxy`
 
@@ -15,7 +15,7 @@ A node.js proxy that features URL encoding, and amazing compatablity!
 
 `npm start`
 
-The default prefix for Alloy Proxy will is "/proxy/" but you are free to change this in "config.json" alongside the port.
+The default prefix for Alloy Proxy is "/proxy/" but you are free to change this in "config.json" alongside the port.
 
 # How the proxy works:
 
